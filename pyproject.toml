@@ -1,6 +1,6 @@
 [project]
 name = "opack"
-version = "0.0.1"
+version = "0.1.0"
 description = "Python library for parsing the opack format"
 readme = "README.md"
 requires-python = ">=3.8"
